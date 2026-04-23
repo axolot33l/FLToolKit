@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Required so git can push tags
+          fetch-depth: 0
 
       - name: Set up JDK 17
         uses: actions/setup-java@v4
@@ -23,25 +23,31 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Grant execute permission for gradlew
-        run: chmod +x gradlew
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Generate Gradle Wrapper
+        working-directory: app
+        run: |
+          gradle wrapper --gradle-version 8.7
+          chmod +x gradlew
 
       - name: Build APKs
+        working-directory: app
         run: ./gradlew assembleDebug assembleRelease
 
-      - name: Upload Debug APK (artifact)
+      - name: Upload Debug APK
         uses: actions/upload-artifact@v4
         with:
           name: FL-ToolKit-debug
           path: app/build/outputs/apk/debug/app-debug.apk
 
-      - name: Upload Release APK (artifact)
+      - name: Upload Release APK
         uses: actions/upload-artifact@v4
         with:
           name: FL-ToolKit-release-unsigned
           path: app/build/outputs/apk/release/app-release-unsigned.apk
 
-      # Create and push a git tag — required by softprops/action-gh-release
       - name: Create and push git tag
         if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
         run: |
@@ -66,11 +72,10 @@ jobs:
           body: |
             ## FL ToolKit — Automated Build ${{ github.run_number }}
 
-            **Package:** `com.ninjakiwi.bloonspuzzle`
             **Commit:** `${{ github.sha }}`
             **Branch:** `${{ github.ref_name }}`
 
-            > ⚠️ The release APK is **unsigned**. Sign it with your keystore before distributing.
+            > The release APK is **unsigned**. Sign it with your keystore before distributing.
           draft: false
           prerelease: false
         env:
