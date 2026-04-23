@@ -73,7 +73,7 @@ jobs:
             **Commit:** `${{ github.sha }}`
             **Branch:** `${{ github.ref_name }}`
 
-            > The release APK is **unsigned**. Sign it with your keystore before distributing.
+            > The release APK is **unsigned**.
           draft: false
           prerelease: false
         env:
