@@ -1,4 +1,4 @@
-package fi.junixald.fltool;
+package fi.junixald.fltoolkit;
 
 import android.content.Intent;
 import android.os.Bundle;

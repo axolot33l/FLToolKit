@@ -3,8 +3,10 @@
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <application
+        android:name=".MainApplication"
         android:allowBackup="false"
         android:label="@string/app_name"
         android:icon="@drawable/ic_launcher_game_new"
@@ -40,6 +42,13 @@
             <intent-filter>
                 <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Error Handler Receiver -->
+        <receiver android:name=".ErrorHandler$ErrorActionReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="fi.junixald.fltoolkit.ACTION_COPY_ERROR" />
             </intent-filter>
         </receiver>
 

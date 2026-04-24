@@ -1,4 +1,4 @@
-package fi.junixald.fltool;
+package fi.junixald.fltoolkit;
 
 import android.app.admin.DevicePolicyManager;
 import android.content.ComponentName;

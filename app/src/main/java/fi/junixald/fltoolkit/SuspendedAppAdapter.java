@@ -1,4 +1,4 @@
-package fi.junixald.fltool;
+package fi.junixald.fltoolkit;
 
 import android.view.LayoutInflater;
 import android.view.View;

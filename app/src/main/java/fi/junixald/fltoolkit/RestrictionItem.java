@@ -1,4 +1,4 @@
-package fi.junixald.fltool;
+package fi.junixald.fltoolkit;
 
 public class RestrictionItem {
     private final String key;
