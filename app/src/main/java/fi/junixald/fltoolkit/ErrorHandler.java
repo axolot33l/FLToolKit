@@ -63,7 +63,7 @@ public class ErrorHandler {
                 .setPriority(NotificationCompat.PRIORITY_HIGH)
                 .setAutoCancel(true)
                 .setContentIntent(pendingIntent)
-                .addAction(android.R.drawable.ic_menu_copy, "Copy Error", pendingIntent);
+                .addAction(android.R.drawable.ic_menu_send, "Copy Error", pendingIntent);
 
         try {
             NotificationManagerCompat notificationManager = NotificationManagerCompat.from(context);

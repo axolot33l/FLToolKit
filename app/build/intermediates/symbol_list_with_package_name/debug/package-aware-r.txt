@@ -1,4 +1,4 @@
-com.ninjakiwi.bloonspuzzle
+fi.junixald.fltoolkit
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -3206,10 +3206,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btnAddRestriction
 id btnContinue
 id btnLock
-id btnRefreshRestrictions
 id btnRemove
 id btnRequestAdmin
 id buttonPanel
@@ -3487,7 +3485,6 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
-id rvRestrictions
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3551,7 +3548,6 @@ id submit_area
 id supportScrollUp
 id switchDevOptions
 id switchMultiUser
-id switchScreenCapture
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3605,7 +3601,6 @@ id triangle
 id tvAllDone
 id tvAppName
 id tvAppPackage
-id tvNoRestrictions
 id tvRestrictionKey
 id tvRestrictionName
 id tvRestrictionSource

@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.ninjakiwi.bloonspuzzle",
+  "applicationId": "fi.junixald.fltoolkit",
   "variantName": "debug",
   "elements": []
 }
