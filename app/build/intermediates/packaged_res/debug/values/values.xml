@@ -24,6 +24,7 @@
     <string name="btn_refresh">Refresh</string>
     <string name="btn_remove">Remove</string>
     <string name="btn_suspend_app">Suspend/Unsuspend App</string>
+    <string name="btn_test_error">Test Error</string>
     <string name="btn_unsuspend">Unsuspend</string>
     <string name="btn_wipe">Wipe</string>
     <string name="dialog_add_restriction_title">Apply System Restriction</string>

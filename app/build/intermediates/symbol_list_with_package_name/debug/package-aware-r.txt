@@ -3876,6 +3876,7 @@ string btn_reboot
 string btn_refresh
 string btn_remove
 string btn_suspend_app
+string btn_test_error
 string btn_unsuspend
 string btn_wipe
 string call_notification_answer_action

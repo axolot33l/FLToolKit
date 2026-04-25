@@ -1,46 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\layout_item_app_selection.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\layout\\item_app_selection.xml"
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/drawable_blahaj_logo.xml.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/drawable/blahaj_logo.xml"
     },
     {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\layout_item_restriction.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\layout\\item_restriction.xml"
-    },
-    {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\xml_device_admin.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\xml\\device_admin.xml"
-    },
-    {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\layout_activity_setup.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\layout\\activity_setup.xml"
-    },
-    {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\drawable_circle_badge.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\drawable\\circle_badge.xml"
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/drawable_ic_launcher_game.xml.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/drawable/ic_launcher_game.xml"
     },
     {
         "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/layout_activity_main.xml.flat",
         "source": "com.mobiplayapps.chessforyou.app-main-35:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\drawable_ic_launcher_game.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\drawable\\ic_launcher_game.xml"
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/layout_item_restriction.xml.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/layout/item_restriction.xml"
     },
     {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\drawable_ic_launcher_game_new.webp.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\drawable\\ic_launcher_game_new.webp"
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/raw_blahaj_logo.svg.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/raw/blahaj_logo.svg"
     },
     {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\raw_blahaj_logo.svg.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\raw\\blahaj_logo.svg"
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/drawable_circle_badge.xml.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/drawable/circle_badge.xml"
     },
     {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\drawable_blahaj_logo.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\drawable\\blahaj_logo.xml"
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/layout_item_app_selection.xml.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/layout/item_app_selection.xml"
     },
     {
-        "merged": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-merged_res-33:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\axo\\.gradle\\daemon\\8.4\\com.mobiplayapps.chessforyou.app-main-35:\\layout\\activity_main.xml"
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/drawable_ic_launcher_game_new.webp.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/drawable/ic_launcher_game_new.webp"
+    },
+    {
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/layout_activity_setup.xml.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "com.mobiplayapps.chessforyou.app-merged_res-33:/xml_device_admin.xml.flat",
+        "source": "com.mobiplayapps.chessforyou.app-main-35:/xml/device_admin.xml"
     }
 ]

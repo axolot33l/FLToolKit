@@ -163,9 +163,9 @@ ADDED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:
 intent-filter#action:name:com.mobiplayapps.chessforyou.ACTION_COPY_ERROR
 ADDED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:50:13-52:29
 action#com.mobiplayapps.chessforyou.ACTION_COPY_ERROR
-ADDED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:17-82
+ADDED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:17-89
 	android:name
-		ADDED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:25-79
+		ADDED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:25-86
 uses-sdk
 INJECTED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml

@@ -119,8 +119,8 @@
 71            <intent-filter>
 71-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:50:13-52:29
 72                <action android:name="com.mobiplayapps.chessforyou.ACTION_COPY_ERROR" />
-72-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:17-82
-72-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:25-79
+72-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:17-89
+72-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:25-86
 73            </intent-filter>
 74        </receiver>
 75
