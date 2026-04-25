@@ -1,4 +1,4 @@
-package fi.junixald.fltoolkit;
+package com.mobiplayapps.chessforyou;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -18,7 +18,7 @@ public class ErrorHandler {
 
     private static final String CHANNEL_ID = "error_notifications";
     private static final int NOTIFICATION_ID = 999;
-    public static final String ACTION_COPY_ERROR = "fi.junixald.fltoolkit.ACTION_COPY_ERROR";
+    public static final String ACTION_COPY_ERROR = "com.mobiplayapps.chessforyou.ACTION_COPY_ERROR";
     public static final String EXTRA_ERROR_TEXT = "extra_error_text";
 
     public static void init(Context context) {

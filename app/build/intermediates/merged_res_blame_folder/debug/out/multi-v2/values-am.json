@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "fi.junixald.fltoolkit.app-mergeDebugResources-31:/values-am/values-am.xml",
+            "outputFile": "com.mobiplayapps.chessforyou.app-mergeDebugResources-31:/values-am/values-am.xml",
             "map": [
                 {
                     "source": "C:\\Users\\axo\\.gradle\\caches\\transforms-3\\7814613187ab34825980dde8df1190a1\\transformed\\material-1.12.0\\res\\values-am\\values-am.xml",

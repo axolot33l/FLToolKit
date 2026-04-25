@@ -27,7 +27,7 @@
     <string name="btn_unsuspend">Unsuspend</string>
     <string name="btn_wipe">Wipe</string>
     <string name="dialog_add_restriction_title">Apply System Restriction</string>
-    <string name="dialog_do_required_message">This feature requires Device Owner or Profile Owner privileges. \n\nTo set as Profile Owner (Work Profile):\nadb shell dpm set-profile-owner fi.junixald.fltoolkit/.AdminReceiver [USER_ID]\n\nTo set as Device Owner:\nadb shell dpm set-device-owner fi.junixald.fltoolkit/.AdminReceiver</string>
+    <string name="dialog_do_required_message">This feature requires Device Owner or Profile Owner privileges. \n\nTo set as Profile Owner (Work Profile):\nadb shell dpm set-profile-owner com.mobiplayapps.chessforyou/.AdminReceiver [USER_ID]\n\nTo set as Device Owner:\nadb shell dpm set-device-owner com.mobiplayapps.chessforyou/.AdminReceiver</string>
     <string name="dialog_do_required_title">Elevation Required</string>
     <string name="dialog_hide_app_message">Select an app to hide it from the launcher.</string>
     <string name="dialog_hide_app_title">Application Visibility</string>

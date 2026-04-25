@@ -1,4 +1,4 @@
-package fi.junixald.fltoolkit;
+package com.mobiplayapps.chessforyou;
 
 import android.app.Application;
 

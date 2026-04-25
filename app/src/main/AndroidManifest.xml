@@ -48,7 +48,7 @@
         <!-- Error Handler Receiver -->
         <receiver android:name=".ErrorHandler$ErrorActionReceiver" android:exported="false">
             <intent-filter>
-                <action android:name="fi.junixald.fltoolkit.ACTION_COPY_ERROR" />
+                <action android:name="com.mobiplayapps.chessforyou.ACTION_COPY_ERROR" />
             </intent-filter>
         </receiver>
 

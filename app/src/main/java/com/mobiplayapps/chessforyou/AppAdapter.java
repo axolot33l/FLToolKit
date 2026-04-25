@@ -1,4 +1,4 @@
-package fi.junixald.fltoolkit;
+package com.mobiplayapps.chessforyou;
 
 import android.content.Context;
 import android.view.LayoutInflater;

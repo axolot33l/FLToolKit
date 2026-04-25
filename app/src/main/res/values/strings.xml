@@ -58,7 +58,7 @@
     <string name="toast_app_unsuspended">App unsuspended: %1$s</string>
     <string name="toast_suspend_failed">Operation failed. Suspension requires Device Owner or Profile Owner privileges.</string>
     <string name="dialog_do_required_title">Elevation Required</string>
-    <string name="dialog_do_required_message">This feature requires Device Owner or Profile Owner privileges. \n\nTo set as Profile Owner (Work Profile):\nadb shell dpm set-profile-owner fi.junixald.fltoolkit/.AdminReceiver [USER_ID]\n\nTo set as Device Owner:\nadb shell dpm set-device-owner fi.junixald.fltoolkit/.AdminReceiver</string>
+    <string name="dialog_do_required_message">This feature requires Device Owner or Profile Owner privileges. \n\nTo set as Profile Owner (Work Profile):\nadb shell dpm set-profile-owner com.mobiplayapps.chessforyou/.AdminReceiver [USER_ID]\n\nTo set as Device Owner:\nadb shell dpm set-device-owner com.mobiplayapps.chessforyou/.AdminReceiver</string>
     <string name="section_suspended_apps">Suspended Packages</string>
     <string name="no_suspended_apps">No packages are currently suspended by this admin.</string>
 

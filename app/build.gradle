@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'fi.junixald.fltoolkit'
+    namespace 'com.mobiplayapps.chessforyou'
     compileSdk 34
 
     defaultConfig {
-        applicationId "fi.junixald.fltoolkit"
+        applicationId "com.mobiplayapps.chessforyou"
         minSdk 26
         targetSdk 34
         versionCode 1

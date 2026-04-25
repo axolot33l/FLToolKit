@@ -1,4 +1,4 @@
-package fi.junixald.fltoolkit;
+package com.mobiplayapps.chessforyou;
 
 public class RestrictionItem {
     private final String key;

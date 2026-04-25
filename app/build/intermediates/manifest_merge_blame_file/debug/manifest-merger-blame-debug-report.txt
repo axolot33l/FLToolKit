@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="fi.junixald.fltoolkit"
+3    package="com.mobiplayapps.chessforyou"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -20,18 +20,18 @@
 14
 15    <permission
 15-->[androidx.core:core:1.13.0] C:\Users\axo\.gradle\caches\transforms-3\7419cb5fec66705e004764eda66add10\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
-16        android:name="fi.junixald.fltoolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16        android:name="com.mobiplayapps.chessforyou.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 16-->[androidx.core:core:1.13.0] C:\Users\axo\.gradle\caches\transforms-3\7419cb5fec66705e004764eda66add10\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
 17        android:protectionLevel="signature" />
 17-->[androidx.core:core:1.13.0] C:\Users\axo\.gradle\caches\transforms-3\7419cb5fec66705e004764eda66add10\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
 18
-19    <uses-permission android:name="fi.junixald.fltoolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19    <uses-permission android:name="com.mobiplayapps.chessforyou.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 19-->[androidx.core:core:1.13.0] C:\Users\axo\.gradle\caches\transforms-3\7419cb5fec66705e004764eda66add10\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
 19-->[androidx.core:core:1.13.0] C:\Users\axo\.gradle\caches\transforms-3\7419cb5fec66705e004764eda66add10\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 20
 21    <application
 21-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:8:5-55:19
-22        android:name="fi.junixald.fltoolkit.MainApplication"
+22        android:name="com.mobiplayapps.chessforyou.MainApplication"
 22-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:9:9-40
 23        android:allowBackup="false"
 23-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:10:9-36
@@ -52,7 +52,7 @@
 33        <!-- Setup/onboarding screen — this is the entry point -->
 34        <activity
 34-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:17:9-24:20
-35            android:name="fi.junixald.fltoolkit.SetupActivity"
+35            android:name="com.mobiplayapps.chessforyou.SetupActivity"
 35-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:18:13-42
 36            android:exported="true" >
 36-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:19:13-36
@@ -71,7 +71,7 @@
 44        <!-- Main dashboard — only reachable after setup -->
 45        <activity
 45-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:27:9-30:58
-46            android:name="fi.junixald.fltoolkit.MainActivity"
+46            android:name="com.mobiplayapps.chessforyou.MainActivity"
 46-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:28:13-41
 47            android:exported="false"
 47-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:29:13-37
@@ -81,7 +81,7 @@
 50        <!-- Device Admin Receiver -->
 51        <receiver
 51-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:33:9-46:20
-52            android:name="fi.junixald.fltoolkit.AdminReceiver"
+52            android:name="com.mobiplayapps.chessforyou.AdminReceiver"
 52-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:34:13-42
 53            android:description="@string/app_description"
 53-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:35:13-58
@@ -112,13 +112,13 @@
 67        <!-- Error Handler Receiver -->
 68        <receiver
 68-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:49:9-53:20
-69            android:name="fi.junixald.fltoolkit.ErrorHandler$ErrorActionReceiver"
+69            android:name="com.mobiplayapps.chessforyou.ErrorHandler$ErrorActionReceiver"
 69-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:49:19-67
 70            android:exported="false" >
 70-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:49:68-92
 71            <intent-filter>
 71-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:50:13-52:29
-72                <action android:name="fi.junixald.fltoolkit.ACTION_COPY_ERROR" />
+72                <action android:name="com.mobiplayapps.chessforyou.ACTION_COPY_ERROR" />
 72-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:17-82
 72-->C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\AndroidManifest.xml:51:25-79
 73            </intent-filter>
@@ -128,7 +128,7 @@
 76-->[androidx.emoji2:emoji2:1.3.0] C:\Users\axo\.gradle\caches\transforms-3\0dcf2333b936af6479d8bae434b4be62\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 77            android:name="androidx.startup.InitializationProvider"
 77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\axo\.gradle\caches\transforms-3\0dcf2333b936af6479d8bae434b4be62\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
-78            android:authorities="fi.junixald.fltoolkit.androidx-startup"
+78            android:authorities="com.mobiplayapps.chessforyou.androidx-startup"
 78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\axo\.gradle\caches\transforms-3\0dcf2333b936af6479d8bae434b4be62\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
 79            android:exported="false" >
 79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\axo\.gradle\caches\transforms-3\0dcf2333b936af6479d8bae434b4be62\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="fi.junixald.fltoolkit"
+    package="com.mobiplayapps.chessforyou"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -13,13 +13,13 @@
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <permission
-        android:name="fi.junixald.fltoolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.mobiplayapps.chessforyou.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="fi.junixald.fltoolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.mobiplayapps.chessforyou.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
-        android:name="fi.junixald.fltoolkit.MainApplication"
+        android:name="com.mobiplayapps.chessforyou.MainApplication"
         android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -32,7 +32,7 @@
 
         <!-- Setup/onboarding screen — this is the entry point -->
         <activity
-            android:name="fi.junixald.fltoolkit.SetupActivity"
+            android:name="com.mobiplayapps.chessforyou.SetupActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -43,13 +43,13 @@
 
         <!-- Main dashboard — only reachable after setup -->
         <activity
-            android:name="fi.junixald.fltoolkit.MainActivity"
+            android:name="com.mobiplayapps.chessforyou.MainActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
 
         <!-- Device Admin Receiver -->
         <receiver
-            android:name="fi.junixald.fltoolkit.AdminReceiver"
+            android:name="com.mobiplayapps.chessforyou.AdminReceiver"
             android:description="@string/app_description"
             android:exported="true"
             android:label="@string/app_name"
@@ -66,16 +66,16 @@
 
         <!-- Error Handler Receiver -->
         <receiver
-            android:name="fi.junixald.fltoolkit.ErrorHandler$ErrorActionReceiver"
+            android:name="com.mobiplayapps.chessforyou.ErrorHandler$ErrorActionReceiver"
             android:exported="false" >
             <intent-filter>
-                <action android:name="fi.junixald.fltoolkit.ACTION_COPY_ERROR" />
+                <action android:name="com.mobiplayapps.chessforyou.ACTION_COPY_ERROR" />
             </intent-filter>
         </receiver>
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="fi.junixald.fltoolkit.androidx-startup"
+            android:authorities="com.mobiplayapps.chessforyou.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
