@@ -1,36 +1,36 @@
-com.ninjakiwi.bloonspuzzle.app-jetified-emoji2-views-helper-1.3.0-0 C:\Users\axo\.gradle\caches\transforms-3\0003f2c3f2fe10eba05c5864b659f9a8\transformed\jetified-emoji2-views-helper-1.3.0\res
-com.ninjakiwi.bloonspuzzle.app-jetified-profileinstaller-1.3.1-1 C:\Users\axo\.gradle\caches\transforms-3\014dcb83d497ae2cf92fdb43e0433b9a\transformed\jetified-profileinstaller-1.3.1\res
-com.ninjakiwi.bloonspuzzle.app-jetified-emoji2-1.3.0-2 C:\Users\axo\.gradle\caches\transforms-3\0dcf2333b936af6479d8bae434b4be62\transformed\jetified-emoji2-1.3.0\res
-com.ninjakiwi.bloonspuzzle.app-core-runtime-2.2.0-3 C:\Users\axo\.gradle\caches\transforms-3\1b3863b41b44d3c4d649ed4888c549a8\transformed\core-runtime-2.2.0\res
-com.ninjakiwi.bloonspuzzle.app-jetified-activity-1.8.0-4 C:\Users\axo\.gradle\caches\transforms-3\221a40187c58f1c506fd87b0c3f65341\transformed\jetified-activity-1.8.0\res
-com.ninjakiwi.bloonspuzzle.app-swiperefreshlayout-1.1.0-5 C:\Users\axo\.gradle\caches\transforms-3\2c5619bb1ea609c51145a3a985967a85\transformed\swiperefreshlayout-1.1.0\res
-com.ninjakiwi.bloonspuzzle.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\axo\.gradle\caches\transforms-3\307803ac79e17899467fc7f859e093a9\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
-com.ninjakiwi.bloonspuzzle.app-cardview-1.0.0-7 C:\Users\axo\.gradle\caches\transforms-3\37ea001c6b588528d2437e80510f9422\transformed\cardview-1.0.0\res
-com.ninjakiwi.bloonspuzzle.app-jetified-appcompat-resources-1.7.0-8 C:\Users\axo\.gradle\caches\transforms-3\3a9231ca9bb0fae6e5143257a1d384a6\transformed\jetified-appcompat-resources-1.7.0\res
-com.ninjakiwi.bloonspuzzle.app-coordinatorlayout-1.1.0-9 C:\Users\axo\.gradle\caches\transforms-3\44d8dcc009b536ed68cc06be03e793ba\transformed\coordinatorlayout-1.1.0\res
-com.ninjakiwi.bloonspuzzle.app-appcompat-1.7.0-10 C:\Users\axo\.gradle\caches\transforms-3\47195750ca0e94dba0ee8b1045783845\transformed\appcompat-1.7.0\res
-com.ninjakiwi.bloonspuzzle.app-jetified-viewpager2-1.1.0-beta02-11 C:\Users\axo\.gradle\caches\transforms-3\4a5e507e5af59c3dc81d0b22b5c5e02a\transformed\jetified-viewpager2-1.1.0-beta02\res
-com.ninjakiwi.bloonspuzzle.app-lifecycle-livedata-core-2.6.2-12 C:\Users\axo\.gradle\caches\transforms-3\57bcc1cd2a26052d151824a61b4416a9\transformed\lifecycle-livedata-core-2.6.2\res
-com.ninjakiwi.bloonspuzzle.app-lifecycle-viewmodel-2.6.2-13 C:\Users\axo\.gradle\caches\transforms-3\5ac483ae33b4e9f640af995dcb91c5d8\transformed\lifecycle-viewmodel-2.6.2\res
-com.ninjakiwi.bloonspuzzle.app-constraintlayout-2.1.4-14 C:\Users\axo\.gradle\caches\transforms-3\666e90f6d63a92a3eb6367791e3c8254\transformed\constraintlayout-2.1.4\res
-com.ninjakiwi.bloonspuzzle.app-jetified-startup-runtime-1.1.1-15 C:\Users\axo\.gradle\caches\transforms-3\6ce9bc76b9b2d764d36df2f3f140b14e\transformed\jetified-startup-runtime-1.1.1\res
-com.ninjakiwi.bloonspuzzle.app-jetified-customview-poolingcontainer-1.0.0-16 C:\Users\axo\.gradle\caches\transforms-3\6d4844162fde04efb2d941cc0bf45b5c\transformed\jetified-customview-poolingcontainer-1.0.0\res
-com.ninjakiwi.bloonspuzzle.app-core-1.13.0-17 C:\Users\axo\.gradle\caches\transforms-3\7419cb5fec66705e004764eda66add10\transformed\core-1.13.0\res
-com.ninjakiwi.bloonspuzzle.app-jetified-annotation-experimental-1.4.0-18 C:\Users\axo\.gradle\caches\transforms-3\75e19df0a623ee54faa8854040c13f2f\transformed\jetified-annotation-experimental-1.4.0\res
-com.ninjakiwi.bloonspuzzle.app-lifecycle-runtime-2.6.2-19 C:\Users\axo\.gradle\caches\transforms-3\77fa98f340b8e57ddb5fc2bdeb6c5d5a\transformed\lifecycle-runtime-2.6.2\res
-com.ninjakiwi.bloonspuzzle.app-material-1.12.0-20 C:\Users\axo\.gradle\caches\transforms-3\7814613187ab34825980dde8df1190a1\transformed\material-1.12.0\res
-com.ninjakiwi.bloonspuzzle.app-lifecycle-livedata-2.6.2-21 C:\Users\axo\.gradle\caches\transforms-3\8b1b957627f76ae544cc00ec726a8dc5\transformed\lifecycle-livedata-2.6.2\res
-com.ninjakiwi.bloonspuzzle.app-jetified-core-ktx-1.13.0-22 C:\Users\axo\.gradle\caches\transforms-3\925ebe497a21695176490253423cb347\transformed\jetified-core-ktx-1.13.0\res
-com.ninjakiwi.bloonspuzzle.app-jetified-savedstate-1.2.1-23 C:\Users\axo\.gradle\caches\transforms-3\a0609e812669bd3c05569e9335345f60\transformed\jetified-savedstate-1.2.1\res
-com.ninjakiwi.bloonspuzzle.app-drawerlayout-1.1.1-24 C:\Users\axo\.gradle\caches\transforms-3\c7ee95756d20e4c65d0534a7aea746fb\transformed\drawerlayout-1.1.1\res
-com.ninjakiwi.bloonspuzzle.app-jetified-lifecycle-process-2.6.2-25 C:\Users\axo\.gradle\caches\transforms-3\dcb519222d1b051d94c3e473122ac399\transformed\jetified-lifecycle-process-2.6.2\res
-com.ninjakiwi.bloonspuzzle.app-transition-1.5.0-26 C:\Users\axo\.gradle\caches\transforms-3\df49f422e3d50a1ddf34e443840c2aab\transformed\transition-1.5.0\res
-com.ninjakiwi.bloonspuzzle.app-fragment-1.5.4-27 C:\Users\axo\.gradle\caches\transforms-3\f967a77031a1ccbc7634212676a26652\transformed\fragment-1.5.4\res
-com.ninjakiwi.bloonspuzzle.app-recyclerview-1.3.2-28 C:\Users\axo\.gradle\caches\transforms-3\fa78559d4ed0061212556e3ced197575\transformed\recyclerview-1.3.2\res
-com.ninjakiwi.bloonspuzzle.app-pngs-29 C:\Users\axo\3D Objects\MDMAdminApp\app\build\generated\res\pngs\release
-com.ninjakiwi.bloonspuzzle.app-resValues-30 C:\Users\axo\3D Objects\MDMAdminApp\app\build\generated\res\resValues\release
-com.ninjakiwi.bloonspuzzle.app-packageReleaseResources-31 C:\Users\axo\3D Objects\MDMAdminApp\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
-com.ninjakiwi.bloonspuzzle.app-packageReleaseResources-32 C:\Users\axo\3D Objects\MDMAdminApp\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
-com.ninjakiwi.bloonspuzzle.app-merged_res-33 C:\Users\axo\3D Objects\MDMAdminApp\app\build\intermediates\merged_res\release
-com.ninjakiwi.bloonspuzzle.app-main-34 C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\res
-com.ninjakiwi.bloonspuzzle.app-release-35 C:\Users\axo\3D Objects\MDMAdminApp\app\src\release\res
+com.mobiplayapps.chessforyou.app-jetified-emoji2-views-helper-1.3.0-0 C:\Users\axo\.gradle\caches\transforms-3\0003f2c3f2fe10eba05c5864b659f9a8\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.mobiplayapps.chessforyou.app-jetified-profileinstaller-1.3.1-1 C:\Users\axo\.gradle\caches\transforms-3\014dcb83d497ae2cf92fdb43e0433b9a\transformed\jetified-profileinstaller-1.3.1\res
+com.mobiplayapps.chessforyou.app-jetified-emoji2-1.3.0-2 C:\Users\axo\.gradle\caches\transforms-3\0dcf2333b936af6479d8bae434b4be62\transformed\jetified-emoji2-1.3.0\res
+com.mobiplayapps.chessforyou.app-core-runtime-2.2.0-3 C:\Users\axo\.gradle\caches\transforms-3\1b3863b41b44d3c4d649ed4888c549a8\transformed\core-runtime-2.2.0\res
+com.mobiplayapps.chessforyou.app-jetified-activity-1.8.0-4 C:\Users\axo\.gradle\caches\transforms-3\221a40187c58f1c506fd87b0c3f65341\transformed\jetified-activity-1.8.0\res
+com.mobiplayapps.chessforyou.app-swiperefreshlayout-1.1.0-5 C:\Users\axo\.gradle\caches\transforms-3\2c5619bb1ea609c51145a3a985967a85\transformed\swiperefreshlayout-1.1.0\res
+com.mobiplayapps.chessforyou.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\axo\.gradle\caches\transforms-3\307803ac79e17899467fc7f859e093a9\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.mobiplayapps.chessforyou.app-cardview-1.0.0-7 C:\Users\axo\.gradle\caches\transforms-3\37ea001c6b588528d2437e80510f9422\transformed\cardview-1.0.0\res
+com.mobiplayapps.chessforyou.app-jetified-appcompat-resources-1.7.0-8 C:\Users\axo\.gradle\caches\transforms-3\3a9231ca9bb0fae6e5143257a1d384a6\transformed\jetified-appcompat-resources-1.7.0\res
+com.mobiplayapps.chessforyou.app-coordinatorlayout-1.1.0-9 C:\Users\axo\.gradle\caches\transforms-3\44d8dcc009b536ed68cc06be03e793ba\transformed\coordinatorlayout-1.1.0\res
+com.mobiplayapps.chessforyou.app-appcompat-1.7.0-10 C:\Users\axo\.gradle\caches\transforms-3\47195750ca0e94dba0ee8b1045783845\transformed\appcompat-1.7.0\res
+com.mobiplayapps.chessforyou.app-jetified-viewpager2-1.1.0-beta02-11 C:\Users\axo\.gradle\caches\transforms-3\4a5e507e5af59c3dc81d0b22b5c5e02a\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.mobiplayapps.chessforyou.app-lifecycle-livedata-core-2.6.2-12 C:\Users\axo\.gradle\caches\transforms-3\57bcc1cd2a26052d151824a61b4416a9\transformed\lifecycle-livedata-core-2.6.2\res
+com.mobiplayapps.chessforyou.app-lifecycle-viewmodel-2.6.2-13 C:\Users\axo\.gradle\caches\transforms-3\5ac483ae33b4e9f640af995dcb91c5d8\transformed\lifecycle-viewmodel-2.6.2\res
+com.mobiplayapps.chessforyou.app-constraintlayout-2.1.4-14 C:\Users\axo\.gradle\caches\transforms-3\666e90f6d63a92a3eb6367791e3c8254\transformed\constraintlayout-2.1.4\res
+com.mobiplayapps.chessforyou.app-jetified-startup-runtime-1.1.1-15 C:\Users\axo\.gradle\caches\transforms-3\6ce9bc76b9b2d764d36df2f3f140b14e\transformed\jetified-startup-runtime-1.1.1\res
+com.mobiplayapps.chessforyou.app-jetified-customview-poolingcontainer-1.0.0-16 C:\Users\axo\.gradle\caches\transforms-3\6d4844162fde04efb2d941cc0bf45b5c\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.mobiplayapps.chessforyou.app-core-1.13.0-17 C:\Users\axo\.gradle\caches\transforms-3\7419cb5fec66705e004764eda66add10\transformed\core-1.13.0\res
+com.mobiplayapps.chessforyou.app-jetified-annotation-experimental-1.4.0-18 C:\Users\axo\.gradle\caches\transforms-3\75e19df0a623ee54faa8854040c13f2f\transformed\jetified-annotation-experimental-1.4.0\res
+com.mobiplayapps.chessforyou.app-lifecycle-runtime-2.6.2-19 C:\Users\axo\.gradle\caches\transforms-3\77fa98f340b8e57ddb5fc2bdeb6c5d5a\transformed\lifecycle-runtime-2.6.2\res
+com.mobiplayapps.chessforyou.app-material-1.12.0-20 C:\Users\axo\.gradle\caches\transforms-3\7814613187ab34825980dde8df1190a1\transformed\material-1.12.0\res
+com.mobiplayapps.chessforyou.app-lifecycle-livedata-2.6.2-21 C:\Users\axo\.gradle\caches\transforms-3\8b1b957627f76ae544cc00ec726a8dc5\transformed\lifecycle-livedata-2.6.2\res
+com.mobiplayapps.chessforyou.app-jetified-core-ktx-1.13.0-22 C:\Users\axo\.gradle\caches\transforms-3\925ebe497a21695176490253423cb347\transformed\jetified-core-ktx-1.13.0\res
+com.mobiplayapps.chessforyou.app-jetified-savedstate-1.2.1-23 C:\Users\axo\.gradle\caches\transforms-3\a0609e812669bd3c05569e9335345f60\transformed\jetified-savedstate-1.2.1\res
+com.mobiplayapps.chessforyou.app-drawerlayout-1.1.1-24 C:\Users\axo\.gradle\caches\transforms-3\c7ee95756d20e4c65d0534a7aea746fb\transformed\drawerlayout-1.1.1\res
+com.mobiplayapps.chessforyou.app-jetified-lifecycle-process-2.6.2-25 C:\Users\axo\.gradle\caches\transforms-3\dcb519222d1b051d94c3e473122ac399\transformed\jetified-lifecycle-process-2.6.2\res
+com.mobiplayapps.chessforyou.app-transition-1.5.0-26 C:\Users\axo\.gradle\caches\transforms-3\df49f422e3d50a1ddf34e443840c2aab\transformed\transition-1.5.0\res
+com.mobiplayapps.chessforyou.app-fragment-1.5.4-27 C:\Users\axo\.gradle\caches\transforms-3\f967a77031a1ccbc7634212676a26652\transformed\fragment-1.5.4\res
+com.mobiplayapps.chessforyou.app-recyclerview-1.3.2-28 C:\Users\axo\.gradle\caches\transforms-3\fa78559d4ed0061212556e3ced197575\transformed\recyclerview-1.3.2\res
+com.mobiplayapps.chessforyou.app-pngs-29 C:\Users\axo\3D Objects\MDMAdminApp\app\build\generated\res\pngs\release
+com.mobiplayapps.chessforyou.app-resValues-30 C:\Users\axo\3D Objects\MDMAdminApp\app\build\generated\res\resValues\release
+com.mobiplayapps.chessforyou.app-packageReleaseResources-31 C:\Users\axo\3D Objects\MDMAdminApp\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.mobiplayapps.chessforyou.app-packageReleaseResources-32 C:\Users\axo\3D Objects\MDMAdminApp\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.mobiplayapps.chessforyou.app-merged_res-33 C:\Users\axo\3D Objects\MDMAdminApp\app\build\intermediates\merged_res\release
+com.mobiplayapps.chessforyou.app-main-34 C:\Users\axo\3D Objects\MDMAdminApp\app\src\main\res
+com.mobiplayapps.chessforyou.app-release-35 C:\Users\axo\3D Objects\MDMAdminApp\app\src\release\res

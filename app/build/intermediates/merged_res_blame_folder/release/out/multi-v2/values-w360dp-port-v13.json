@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ninjakiwi.bloonspuzzle.app-mergeReleaseResources-31:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "com.mobiplayapps.chessforyou.app-mergeReleaseResources-31:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\axo\\.gradle\\caches\\transforms-3\\7814613187ab34825980dde8df1190a1\\transformed\\material-1.12.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",

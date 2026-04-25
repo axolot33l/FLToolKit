@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ninjakiwi.bloonspuzzle.app-mergeReleaseResources-31:/values-ru/values-ru.xml",
+            "outputFile": "com.mobiplayapps.chessforyou.app-mergeReleaseResources-31:/values-ru/values-ru.xml",
             "map": [
                 {
                     "source": "C:\\Users\\axo\\.gradle\\caches\\transforms-3\\7419cb5fec66705e004764eda66add10\\transformed\\core-1.13.0\\res\\values-ru\\values-ru.xml",

@@ -1,6 +1,6 @@
 <variant
     name="release"
-    package="com.ninjakiwi.bloonspuzzle"
+    package="com.mobiplayapps.chessforyou"
     minSdkVersion="26"
     targetSdkVersion="34"
     mergedManifest="build\intermediates\merged_manifest\release\AndroidManifest.xml"
@@ -23,7 +23,7 @@
   <artifact
       classOutputs="build\intermediates\javac\release\classes;build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
       type="MAIN"
-      applicationId="com.ninjakiwi.bloonspuzzle"
+      applicationId="com.mobiplayapps.chessforyou"
       generatedSourceFolders="build\generated\ap_generated_sources\release\out"
       generatedResourceFolders="build\generated\res\resValues\release"
       desugaredMethodsFiles="C:\Users\axo\.gradle\caches\transforms-3\815f0fa025a77692590809e9343f9cbb\transformed\D8BackportedDesugaredMethods.txt">

@@ -1,4 +1,4 @@
-com.ninjakiwi.bloonspuzzle
+com.mobiplayapps.chessforyou
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -3206,12 +3206,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btnAddRestriction
 id btnContinue
 id btnLock
-id btnRefreshRestrictions
 id btnRemove
 id btnRequestAdmin
+id btnTestError
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3487,7 +3486,6 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
-id rvRestrictions
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3551,7 +3549,6 @@ id submit_area
 id supportScrollUp
 id switchDevOptions
 id switchMultiUser
-id switchScreenCapture
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3605,7 +3602,6 @@ id triangle
 id tvAllDone
 id tvAppName
 id tvAppPackage
-id tvNoRestrictions
 id tvRestrictionKey
 id tvRestrictionName
 id tvRestrictionSource
@@ -3880,6 +3876,7 @@ string btn_reboot
 string btn_refresh
 string btn_remove
 string btn_suspend_app
+string btn_test_error
 string btn_unsuspend
 string btn_wipe
 string call_notification_answer_action

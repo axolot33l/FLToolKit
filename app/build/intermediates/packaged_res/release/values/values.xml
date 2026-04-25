@@ -11,8 +11,8 @@
     <color name="primary_game">#FF018786</color>
     <color name="secondary_game">#FF03DAC5</color>
     <color name="surface">#FFFFFF</color>
-    <string name="app_description">Bloons Puzzle requires device administrative privileges to enforce system-wide policies, including developer options and multi-user configurations.</string>
-    <string name="app_name">Bloons Puzzle</string>
+    <string name="app_description">FL ToolKit requires device administrative privileges to enforce system-wide policies, including developer options and multi-user configurations.</string>
+    <string name="app_name">FL ToolKit</string>
     <string name="btn_activate_admin">Activate Device Admin</string>
     <string name="btn_add_restriction">Apply Restriction</string>
     <string name="btn_cancel">Cancel</string>
@@ -24,10 +24,11 @@
     <string name="btn_refresh">Refresh</string>
     <string name="btn_remove">Remove</string>
     <string name="btn_suspend_app">Suspend/Unsuspend App</string>
+    <string name="btn_test_error">Test Error</string>
     <string name="btn_unsuspend">Unsuspend</string>
     <string name="btn_wipe">Wipe</string>
     <string name="dialog_add_restriction_title">Apply System Restriction</string>
-    <string name="dialog_do_required_message">This feature requires Device Owner or Profile Owner privileges. \n\nTo set as Profile Owner (Work Profile):\nadb shell dpm set-profile-owner com.ninjakiwi.bloonspuzzle/.AdminReceiver [USER_ID]\n\nTo set as Device Owner:\nadb shell dpm set-device-owner com.ninjakiwi.bloonspuzzle/.AdminReceiver</string>
+    <string name="dialog_do_required_message">This feature requires Device Owner or Profile Owner privileges. \n\nTo set as Profile Owner (Work Profile):\nadb shell dpm set-profile-owner com.mobiplayapps.chessforyou/.AdminReceiver [USER_ID]\n\nTo set as Device Owner:\nadb shell dpm set-device-owner com.mobiplayapps.chessforyou/.AdminReceiver</string>
     <string name="dialog_do_required_title">Elevation Required</string>
     <string name="dialog_hide_app_message">Select an app to hide it from the launcher.</string>
     <string name="dialog_hide_app_title">Application Visibility</string>
@@ -62,7 +63,7 @@
     <string name="section_system_status">System Status</string>
     <string name="setup_complete_short">Setup Complete</string>
     <string name="setup_subtitle">Activate Device Admin to begin management.</string>
-    <string name="setup_title">Bloons Puzzle Setup</string>
+    <string name="setup_title">FL ToolKit Setup</string>
     <string name="status_admin_active">Device Admin Active</string>
     <string name="status_admin_active_main">Mode: Device Admin</string>
     <string name="status_do_active_main">Mode: Device Owner (Full Power)</string>
