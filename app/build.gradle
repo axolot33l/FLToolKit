@@ -14,20 +14,11 @@ android {
         versionName "1.0"
     }
 
-    signingConfigs {
-        debug {
-            storeFile rootProject.file('debug.keystore')
-            storePassword 'android'
-            keyAlias 'androiddebugkey'
-            keyPassword 'android'
-        }
-    }
-
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            // Use debug signing for release builds so they are installable but "unsigned" (technically signed with debug key)
+            // Use the default debug signing config so the release APK is signed and installable
             signingConfig signingConfigs.debug
         }
     }
