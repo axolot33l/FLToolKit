@@ -76,7 +76,7 @@ public class DeviceOwnerManager {
             }
         } catch (SecurityException e) {
             Log.e(TAG, "Developer options policy requires higher privileges", e);
-            ErrorHandler.showErrorNotification(context, "Security Error: Developer options require Device Owner/Profile Owner status." + e.getMessage());
+            ErrorHandler.showErrorNotification(context, e.getMessage());
         } catch (Exception e) {
             Log.e(TAG, "enforceDeveloperOptions failed", e);
             ErrorHandler.showErrorNotification(context, "Error enforcing Developer Options: " + e.getMessage());
